@@ -2,9 +2,9 @@
 Plugin Name: Kyano Forms | Beter Contact forms
 Contributors: kyanoapp
 Tags: contactform, forms, kyano, contact, spam, antispam form
-Requires at least: 5.3
-Tested up to: 5.8.2
-Stable tag: 1.3
+Requires at least: 5.6
+Tested up to: 5.9.1
+Stable tag: 1.0.0
 Requires PHP: 5.6.20
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

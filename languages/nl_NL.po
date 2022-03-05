@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Kyano Forms 2022\n"
+"POT-Creation-Date: 2022-03-05 14:26+0100\n"
+"PO-Revision-Date: 2022-03-05 14:27+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: kyano-forms.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: kyano-forms.php:49
+msgid "Forms"
+msgstr "Formulieren"
+
+#: kyano-forms.php:95
+#, fuzzy
+msgid "Build beter contact forms."
+msgstr "Bouw betere contactformulieren."
+
+#: kyano-forms.php:96
+msgid ""
+"With Kyano Forms you can create forms for your WordPress website.\n"
+"In our powerful form builder you have your own form within a few clicks.\n"
+"Use our shortcode to display your form on your website."
+msgstr ""
+"Met Kyano Forms maak je formulieren voor op je WordPress website. \n"
+"In onze krachtige formulieren builder heb je binnen enkele klikken je eigen "
+"formulier.\n"
+"Maak gebruik van onze shortcode om je formulier op je website te tonen."
+
+#: kyano-forms.php:102
+msgid "Show your form with a simple shortcode"
+msgstr "Toon je formulier met een eenvoudige shortcode"
+
+#: kyano-forms.php:103
+msgid ""
+"Place your API key of your form in the shortcode. This can be found in Kyano "
+"Forms builder.\n"
+"\n"
+msgstr ""
+"Plaats je API sleutel van je formulier in de shortcode. Deze kan worden "
+"gevonden in Kyano Forms builder.\n"
+"\n"
+
+#: kyano-forms.php:107
+msgid "New form"
+msgstr "Nieuw formulier"
+
+#. Plugin Name of the plugin/theme
+msgid "Kyano Forms 2022"
+msgstr "Kyano Forms 2022"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://kyano.app/forms"
+msgstr "https://kyano.app/forms"
+
+#. Description of the plugin/theme
+msgid "Kyano Forms"
+msgstr "Kyano Forms"
+
+#. Author of the plugin/theme
+msgid "Kyano BV"
+msgstr "Kyano BV"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://kyano.app"
+msgstr "https://kyano.app/"

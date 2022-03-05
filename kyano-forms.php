@@ -9,7 +9,7 @@
 * Domain Path: /languages
 * Author URI: https://kyano.app
 * Requires at least: 5.6
-* Tested up to: 5.7.1
+* Tested up to: 5.9.1
 */
 
 if (!defined('ABSPATH')) exit;
@@ -92,17 +92,19 @@ if (!function_exists('kyano_forms_settings_page_admin')) {
 				<div class="kyano-forms-container-small">
 					<img class="kyano-forms-brand" src="https://cdn.kyano.app/img/kyano-forms-icon-logo-dark.svg" alt="Kyano Forms" title="Kyano Forms logo">
 					<div class="text-center">
-						<h2><?php echo esc_html('Build beter contact forms.', 'kyano-forms'); ?></h2>
-						<p><?php echo esc_html('Met Kyano Forms maak je formulieren voor op je WordPress website. 
-In onze krachtige formulieren builder heb je binnen enkele klikken je eigen formulier.
-Maak gebruik van onze shortcode om je formulier op je website te tonen.', 'kyano-forms'); ?></p>
+						<h2><?php echo __('Build beter contact forms.', 'kyano-forms'); ?></h2>
+						<p><?php echo __('With Kyano Forms you can create forms for your WordPress website.
+In our powerful form builder you have your own form within a few clicks.
+Use our shortcode to display your form on your website.', 'kyano-forms'); ?></p>
 					</div>
 
 					<div class="text-center py-40px">
-						<h4><?php echo esc_html('Toon je formulier met een simpele shortcode', 'kyano-forms'); ?></h4>
-						<p><?php echo esc_html('Plaats je API key van je formulier in de shortcode. Dit is te vinden in Kyano Forms builder.', 'kyano-forms'); ?></p>
+						<h4><?php echo __('Show your form with a simple shortcode', 'kyano-forms'); ?></h4>
+						<p><?php echo __('Place your API key of your form in the shortcode. This can be found in Kyano Forms builder.
+
+', 'kyano-forms'); ?></p>
 						<input class="kyano-forms-shortcode-input" type="text" value="[kyano_forms api_key=“form-api-key”]">
-						<a class="kf-btn-primary mt-30px" target="_blank" title="<?php echo esc_html('New form', 'kyano-forms'); ?>" href="https://forms.kyano.app/"><?php echo esc_html('New form', 'kyano-forms'); ?></a>
+						<a class="kf-btn-primary mt-30px" target="_blank" title="<?php echo __('New form', 'kyano-forms'); ?>" href="https://forms.kyano.app/"><?php echo __('New form', 'kyano-forms'); ?></a>
 					</div>
 				</div>
 			</div>
